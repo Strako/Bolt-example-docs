@@ -1,4 +1,4 @@
-```markdown
+
 # Navigation Menu Section
 
 This code file defines a React component that renders a navigation menu section, including user profile information and a list of menu items. It utilizes external UI components for avatars and separators.
@@ -52,5 +52,5 @@ const App = () => {
 - Assumes that the user data (e.g., name, email) is available and correctly formatted.
 - The menu items are hardcoded; any changes to the menu require updates to the `menuItems` array.
 - The component does not handle user authentication or dynamic data fetching.
-```
+
 
