@@ -1,4 +1,3 @@
-```markdown
 # Table Component Documentation
 
 This code file defines a set of React components for creating a customizable table structure. It provides a flexible way to render tables with headers, body, footers, and captions, utilizing forward refs for better integration with parent components.
@@ -97,5 +96,5 @@ const MyTable = () => (
 ## Edge Cases and Assumptions
 - The components assume that the provided class names are valid and that the `cn` utility function correctly handles them.
 - The code does not handle cases where the table data is empty; it is assumed that the user will provide valid data for rendering.
-```
+
 
