@@ -1,4 +1,4 @@
-```markdown
+
 # Card Component Documentation
 
 This code file defines a set of React components that represent a card UI element, including the card itself, its header, title, description, content, and footer. These components are designed to be reusable and customizable, allowing developers to create card layouts easily.
@@ -81,5 +81,5 @@ The `CardFooter` component is used to display the footer section of the card, of
 
 ## End-user Documentation
 These components can be used to create a card layout in any React application. They are designed to be easily customizable through props, allowing developers to tailor the appearance and content of the cards to fit their needs.
-```
+
 
